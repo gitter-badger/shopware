@@ -1,5 +1,7 @@
 # Shopware 5
 
+[![Join the chat at https://gitter.im/Shyim/shopware](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Shyim/shopware?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/shopware/shopware.svg?branch=5.0)](https://travis-ci.org/shopware/shopware)
 
 - **License**: Dual license AGPL v3 / Proprietary
